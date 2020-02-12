@@ -1,4 +1,4 @@
-# wikiblaz
+# WikiBlaz
 Wiki con todos los proyectos, formación y documentación interesante.
 ### Microservicios
 * Enlace: [Microservicios](https://github.com/JuanCBM/microservicios/wiki)
