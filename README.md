@@ -8,6 +8,6 @@ Wiki con todos los proyectos, formación y documentación interesante.
 
 
 ### EXIN Agile Scrum Foundation
-* Enlace: [Scrum formación](https://github.com/JuanCBM/formacion-exin)
+* Enlace: [Scrum formación](https://github.com/JuanCBM/formacion-exin/wiki)
 * Descripción: Formación en la metodología ágil Scrum.
 * Tecnologías y Tags: Formación, teoría, scrum, agile, certificado, examen.
