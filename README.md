@@ -12,7 +12,11 @@ Wiki con todos los proyectos, formación y documentación interesante.
 * Enlace: [Microservicios y Angular 9](https://github.com/JuanCBM/microservicios-angular9/wiki)
 * Descripción: Proyecto de formación utilizando microservicios y Angular 9.
 * Herramientas: Java 1.14, Spring Tools Suite 4, Lombok
-* Tecnologías y Tags: Eureka Server...
+* Tecnologías y Tags
+  * Tecnologías Back
+    * Spring boot, Spring IoC, Spring Data JPA e Hibernate, API Rest, Spring Cloud, Eureka Netflix, Eureka Client, Feign, Gateway Zuul, Spring Cloud Gateway, Ribbon, Spring Cloud LoadBalancer, Patrón de base de datos compartida, por servicio...
+  * Tecnologías Front
+    * Angular CLI, Typescript, componentes, route, módulos, eventos, directivas, pipe, servicios, material, paginadores, autocomplete, datatable, tabs, observables, RxJs..
 
 ____________________________________________________________________________________________________________________________
 ## Formación Teórica
