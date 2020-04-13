@@ -13,9 +13,9 @@ Wiki con todos los proyectos, formación y documentación interesante.
 * Descripción: Proyecto de formación utilizando microservicios y Angular 9.
 * Herramientas: Java 1.14, Spring Tools Suite 4, Lombok
 * Tecnologías y Tags
-  * Tecnologías Back
+  * Back
     * Spring boot, Spring IoC, Spring Data JPA e Hibernate, API Rest, Spring Cloud, Eureka Netflix, Eureka Client, Feign, Gateway Zuul, Spring Cloud Gateway, Ribbon, Spring Cloud LoadBalancer, Patrón de base de datos compartida, por servicio...
-  * Tecnologías Front
+  * Front
     * Angular CLI, Typescript, componentes, route, módulos, eventos, directivas, pipe, servicios, material, paginadores, autocomplete, datatable, tabs, observables, RxJs..
 
 ____________________________________________________________________________________________________________________________
