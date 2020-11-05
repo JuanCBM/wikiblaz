@@ -18,6 +18,12 @@ Wiki con todos los proyectos, formación y documentación interesante.
   * Front
     * Angular CLI, Typescript, componentes, route, módulos, eventos, directivas, pipe, servicios, material, paginadores, autocomplete, datatable, tabs, observables, RxJs..
 
+### Máster Cloud Apps: Desarrollo y Despliegue de aplicaciones en la nube
+* Descripción: Proyectos realizados en el máster de la Universidad Rey Juan Carlos
+* Módulo 1: Arquitectura, diseño y calidad software
+  * Diseño y Calidad SoftwareURL
+  * Patrones y Arquitectura Software
+    * https://github.com/mahuerta/MasterMind
 ____________________________________________________________________________________________________________________________
 ## Formación Teórica
 
@@ -25,3 +31,5 @@ ________________________________________________________________________________
 * Enlace: [Scrum formación](https://github.com/JuanCBM/formacion-exin/wiki)
 * Descripción: Formación en la metodología ágil Scrum.
 * Tecnologías y Tags: Formación, teoría, scrum, agile, certificado, examen.
+
+
