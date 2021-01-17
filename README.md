@@ -13,6 +13,13 @@ Wiki con todos los proyectos, formación y documentación interesante.
   * Programación Extrema
     * https://github.com/JuanCBM/Damas
     * https://github.com/mahuerta/Intervalos
+ * Módulo 2: Servicios de Internet
+   * API Rest y Bases de datos
+     * https://github.com/JuanCBM/Books
+   * Protocolos Avanzados
+     * https://github.com/JuanCBM/EoloPlanner
+   * Autenticación y Autorización
+     * https://github.com/JuanCBM/BooksAuth
 
 ### Microservicios y Angular 9
 * Fecha: En progreso...
