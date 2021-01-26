@@ -14,13 +14,17 @@ Wiki con todos los proyectos, formación y documentación interesante.
     * https://github.com/JuanCBM/Damas
     * https://github.com/mahuerta/Intervalos
  * Módulo 2: Servicios de Internet
-   * API Rest y Bases de datos
-     * https://github.com/JuanCBM/Books
-   * Protocolos Avanzados
-     * https://github.com/JuanCBM/EoloPlanner
-   * Autenticación y Autorización
-     * https://github.com/JuanCBM/BooksAuth
-
+   * 2.1 Tecnologías de servicios de Internet
+     * API Rest y Bases de datos (Spring, MySQL, JPA, Node, MongoDB, mongoose)
+       * https://github.com/JuanCBM/Books
+     * Protocolos Avanzados (WebSocket, RabbitMQ, programación asincrona en Java, gRPC, MongoDB y Mysql)
+       * https://github.com/JuanCBM/EoloPlanner
+     * Autenticación y Autorización (Acceso de usuarios, roles, JWT)
+       * https://github.com/JuanCBM/BooksAuth
+   * 2.2 Pruebas de Servicios de Internet
+     * Testing de APIs (Java: MockMVC, RestAssured, WebTestClient. Node: Mocks con jest y TestContainers)
+       * https://github.com/mahuerta/TestingSpringNodeJS/tree/master
+       
 ### Microservicios y Angular 9
 * Fecha: En progreso...
 * Enlace: [Microservicios y Angular 9](https://github.com/JuanCBM/microservicios-angular9/wiki)
