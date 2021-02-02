@@ -24,6 +24,8 @@ Wiki con todos los proyectos, formación y documentación interesante.
    * 2.2 Pruebas de Servicios de Internet
      * Testing de APIs (Java: MockMVC, RestAssured, WebTestClient. Node: Mocks con jest y TestContainers)
        * https://github.com/mahuerta/TestingSpringNodeJS/tree/master
+     * Consumer Driven Contract Testing y pruebas de carga con Artillery
+       * https://github.com/JuanCBM/CDCT_Artillery
        
 ### Microservicios y Angular 9
 * Fecha: En progreso...
