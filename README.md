@@ -26,6 +26,16 @@ Wiki con todos los proyectos, formación y documentación interesante.
        * https://github.com/mahuerta/TestingSpringNodeJS/tree/master
      * Consumer Driven Contract Testing y pruebas de carga con Artillery
        * https://github.com/JuanCBM/CDCT_Artillery
+   * 2.3 Persistencia y análisis de datos
+     * Persistencia relacional (Modelado de herencia, many to many eficiente... rendimiento en JPA y consultas)
+       * https://github.com/mahuerta/persistencia-relacional  
+     * Práctica 2. Persistencia No Relacional y Evolución (Flyway, base de datos híbrida con JSON, aggregation framework con MongoDB)
+       * https://github.com/mahuerta/persistencia-relacional/tree/persistencia-relacional-2  
+   * 2.4 Patrones y arquitecturas de servicios de internet
+     * Arquitectura Hexagonal (Con Java y con Node)
+       * https://github.com/JuanCBM/p1-arquitectura-hexagonal  
+     * CQRS y Event Sourcing
+       * https://github.com/JuanCBM/p2-arquitectura-cqrs-event
        
 ### Microservicios y Angular 9
 * Fecha: En progreso...
