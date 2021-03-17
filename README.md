@@ -36,7 +36,13 @@ Wiki con todos los proyectos, formación y documentación interesante.
        * https://github.com/JuanCBM/p1-arquitectura-hexagonal  
      * CQRS y Event Sourcing
        * https://github.com/JuanCBM/p2-arquitectura-cqrs-event
-       
+  * Módulo 3: Aplicaciones nativas de la nube
+   * 3. Computación en la nube
+     * Despliegue de una aplicación Spring (AWS: EC2, RDS, S3, AMI...)
+       * https://github.com/JuanCBM/aws-1
+     * CloudFormation (AWS: CloudFrmation, Spring cloud...
+       * https://github.com/JuanCBM/p2-aws
+   
 ### Microservicios y Angular 9
 * Fecha: En progreso...
 * Enlace: [Microservicios y Angular 9](https://github.com/JuanCBM/microservicios-angular9/wiki)
