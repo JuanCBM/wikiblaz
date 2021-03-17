@@ -37,7 +37,7 @@ Wiki con todos los proyectos, formación y documentación interesante.
      * CQRS y Event Sourcing
        * https://github.com/JuanCBM/p2-arquitectura-cqrs-event
   * Módulo 3: Aplicaciones nativas de la nube
-   * 3. Computación en la nube
+   * 3.1 Computación en la nube
      * Despliegue de una aplicación Spring (AWS: EC2, RDS, S3, AMI...)
        * https://github.com/JuanCBM/aws-1
      * CloudFormation (AWS: CloudFrmation, Spring cloud...
