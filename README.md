@@ -40,9 +40,14 @@ Wiki con todos los proyectos, formación y documentación interesante.
    * 3.1 Computación en la nube
      * Despliegue de una aplicación Spring (AWS: EC2, RDS, S3, AMI...)
         * https://github.com/JuanCBM/aws-1
-     * CloudFormation (AWS: CloudFrmation, Spring cloud...
+     * CloudFormation (AWS: CloudFrmation, Spring cloud...)
         * https://github.com/JuanCBM/p2-aws
-   
+   * 3.2 Contenedores y Orquestadores
+     * Dockerizar una aplicación (Docker)
+        * https://github.com/JuanCBM/p1-docker
+     * Kubernetes (Kubernetes)
+        * https://github.com/JuanCBM/p2-k8s
+
 ### Microservicios y Angular 9
 * Fecha: En progreso...
 * Enlace: [Microservicios y Angular 9](https://github.com/JuanCBM/microservicios-angular9/wiki)
