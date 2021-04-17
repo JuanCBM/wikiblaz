@@ -47,6 +47,10 @@ Wiki con todos los proyectos, formación y documentación interesante.
         * https://github.com/JuanCBM/p1-docker
      * Kubernetes (Kubernetes)
         * https://github.com/JuanCBM/p2-k8s
+     * Kubernetes Avanzado (Kubernetes avanzado)
+        * https://github.com/JuanCBM/p3-k8s-avanzado
+     * Helm y desarrollo remoto (Kubernetes avanzado)
+        * https://github.com/JuanCBM/p4-k8s-helm
 
 ### Microservicios y Angular 9
 * Fecha: En progreso...
