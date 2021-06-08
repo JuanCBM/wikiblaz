@@ -51,6 +51,21 @@ Wiki con todos los proyectos, formación y documentación interesante.
         * https://github.com/JuanCBM/p3-k8s-avanzado
      * Helm y desarrollo remoto (Kubernetes avanzado)
         * https://github.com/JuanCBM/p4-k8s-helm
+   * 3.3 Escalabilidad y tolerancia a fallos
+     * Escalabilidad y tolerancia a fallos (Pruebas de carga artillery, hazelcast, caos testing, istio...)
+        * https://github.com/JuanCBM/p1-escalabilidad
+   * 3.4 Aplicaciones nativas en la nube
+     * Microservicios (Con máquinas de estados)
+        * https://github.com/JuanCBM/p1-microservicios
+     * Monolito a Microservicios (Migración de una aplicación a microservicios)
+        * https://github.com/mahuerta/p2-monolith-to-microservices
+     * Serverless (AWS, lambda, node)
+        * https://github.com/mahuerta/p3-serverless
+   * 4.1 DevOps, integración continua y despliegue continuo 
+     * Libro Accelerate
+   * 4.2 Repositorios y modelos de desarrollo
+     * Gitflow 
+       * https://github.com/mahuerta/jc.blazquez.2020-ma.huerta  
 
 ### Microservicios y Angular 9
 * Fecha: En progreso...
