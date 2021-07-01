@@ -66,6 +66,13 @@ Wiki con todos los proyectos, formación y documentación interesante.
    * 4.2 Repositorios y modelos de desarrollo
      * Gitflow 
        * https://github.com/mahuerta/jc.blazquez.2020-ma.huerta  
+     * Trunk Base Development (TBD), Branch by abstraction y feature toggles
+       * https://github.com/JuanCBM/tbd-jc.blazquez.2020-ma.huerta 
+   * 4.3 Integración y entrega continua 
+     * Integración continua Github actions y Git Flow
+       * https://github.com/JuanCBM/mca-4.3-jc.blazquez.2020-ma.huerta  
+     * Entrega continua Github actions y Git Flow avanzado
+       * https://github.com/mahuerta/mca-4.3-pr2-c.blazquez.2020-ma.huerta
 
 ### Microservicios y Angular 9
 * Fecha: En progreso...
