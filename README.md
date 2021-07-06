@@ -28,9 +28,9 @@ Wiki con todos los proyectos, formación y documentación interesante.
        * https://github.com/JuanCBM/CDCT_Artillery
    * 2.3 Persistencia y análisis de datos
      * Persistencia relacional (Modelado de herencia, many to many eficiente... rendimiento en JPA y consultas)
-       * https://github.com/mahuerta/persistencia-relacional  
+       * https://github.com/JuanCBM/persistencia-relacional
      * Persistencia No Relacional y Evolución (Flyway, base de datos híbrida con JSON, aggregation framework con MongoDB)
-       * https://github.com/mahuerta/persistencia-relacional/tree/persistencia-relacional-2  
+       * https://github.com/JuanCBM/persistencia-relacional-v2
    * 2.4 Patrones y arquitecturas de servicios de internet
      * Arquitectura Hexagonal (Con Java y con Node)
        * https://github.com/JuanCBM/p1-arquitectura-hexagonal  
