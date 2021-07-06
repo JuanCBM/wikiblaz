@@ -58,9 +58,9 @@ Wiki con todos los proyectos, formación y documentación interesante.
      * Microservicios (Con máquinas de estados)
         * https://github.com/JuanCBM/p1-microservicios
      * Monolito a Microservicios (Migración de una aplicación a microservicios)
-        * https://github.com/mahuerta/p2-monolith-to-microservices
+        * https://github.com/JuanCBM/p2-monolith-to-microservices
      * Serverless (AWS, lambda, node)
-        * https://github.com/mahuerta/p3-serverless
+        * https://github.com/JuanCBM/p3-serverless
    * 4.1 DevOps, integración continua y despliegue continuo 
      * Libro Accelerate
    * 4.2 Repositorios y modelos de desarrollo
