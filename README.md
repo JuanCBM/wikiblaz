@@ -74,6 +74,7 @@ Wiki con todos los proyectos, formación y documentación interesante.
        * https://github.com/JuanCBM/mca-4.3-jc.blazquez.2020-ma.huerta  
      * Entrega continua Github actions y Git Flow avanzado
        * https://github.com/mahuerta/mca-4.3-pr2-c.blazquez.2020-ma.huerta
+         * https://github.com/mahuerta/mca-4.3-pr2-c.blazquez.2020-ma.huerta 
    * 4.4 Despliegue continuo 
      * Parallel change
        * https://github.com/JuanCBM/p1-parallel-change
