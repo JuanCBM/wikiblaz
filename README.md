@@ -23,7 +23,7 @@ Wiki con todos los proyectos, formación y documentación interesante.
        * https://github.com/JuanCBM/BooksAuth
    * 2.2 Pruebas de Servicios de Internet
      * Testing de APIs (Java: MockMVC, RestAssured, WebTestClient. Node: Mocks con jest y TestContainers)
-       * https://github.com/mahuerta/TestingSpringNodeJS/tree/master
+       * https://github.com/JuanCBM/testing-spring-node
      * Consumer Driven Contract Testing y pruebas de carga con Artillery
        * https://github.com/JuanCBM/CDCT_Artillery
    * 2.3 Persistencia y análisis de datos
