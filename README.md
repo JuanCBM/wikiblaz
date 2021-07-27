@@ -35,7 +35,7 @@ Wiki con todos los proyectos, formación y documentación interesante.
      * Arquitectura Hexagonal (Con Java y con Node)
        * https://github.com/JuanCBM/p1-arquitectura-hexagonal  
      * CQRS y Event Sourcing
-       * https://github.com/JuanCBM/p2-arquitectura-cqrs-even
+       * https://github.com/JuanCBM/p2-arquitectura-cqrs-event
  * Módulo 3: Aplicaciones nativas de la nube
    * 3.1 Computación en la nube
      * Despliegue de una aplicación Spring (AWS: EC2, RDS, S3, AMI...)
