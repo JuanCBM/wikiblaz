@@ -3,7 +3,7 @@ Wiki con todos los proyectos, formación y documentación interesante.
 
 ## Formación Práctica
 ### Máster Cloud Apps: Desarrollo y Despliegue de aplicaciones en la nube
-* Fecha: En progreso...
+* Fecha: 2021
 * Descripción: Proyectos realizados en el máster de la Universidad Rey Juan Carlos
 * Módulo 1: Arquitectura, diseño y calidad software
   * Diseño y Calidad SoftwareURL
